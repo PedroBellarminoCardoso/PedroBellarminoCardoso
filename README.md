@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Pedro
+# 👋 Esse é o meu Perfil
 
 Tenho 20 anos e estou me dedicando para ingressar no mercado de trabalho na área de tecnologia enquanto continuo meus estudos. Tenho experiência com Delphi 10, Figma, PHP, HTML, CSS e Python, e estou sempre em busca de aprender novas ferramentas e aprimorar minhas habilidades.  
 Nos últimos tempos desenvolvi um interesse especial pela área de **testes de software (QA)**, e pretendo direcionar minha carreira para esse caminho.
