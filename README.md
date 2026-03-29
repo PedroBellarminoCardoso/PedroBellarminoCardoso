@@ -19,8 +19,8 @@ Nos últimos tempos desenvolvi um interesse especial pela área de **testes de s
 
 ---
 
-## 📊 Status no GitHub
-![PedroBellarmino GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBellarmino&show_icons=true&theme=radical)
+## Status no GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&theme=radical)
 
-## 📈 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBellarmino&layout=compact&theme=radical)
+## Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&theme=radical)
