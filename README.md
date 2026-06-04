@@ -8,14 +8,11 @@ Também costumo desenvolver pequenos projetos para colocar em prática o que apr
 
 ---
 
-## Exprericas e vivencias em:
+## Experiências e Vivências em
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,javascript,php,html,css,react" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,mysql,vscode,visualstudio,wordpress,figma,delphi" />
-</p>
-
+<img src="https://skillicons.dev/icons?i=linux,python,javascript,php,html,css,react" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=bootstrap,mysql,vscode,visualstudio,wordpress,figma,delphi" />
 ---
 
 ## 📬 Entre em Contato
