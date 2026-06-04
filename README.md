@@ -1,13 +1,20 @@
-# 👋 Esse é o meu Perfil
+# Sobre mim
 
-Tenho 20 anos e estou me dedicando para ingressar no mercado de trabalho na área de tecnologia enquanto continuo meus estudos. Tenho experiência com Delphi 10, Figma, PHP, HTML, CSS e Python, e estou sempre em busca de aprender novas ferramentas e aprimorar minhas habilidades.  
-Nos últimos tempos desenvolvi um interesse especial pela área de **testes de software (QA)**, e pretendo direcionar minha carreira para esse caminho.
+Estou cursando Engenharia de Software desde 2025, buscando me desenvolver profissionalmente e aprender cada vez mais sobre tecnologias e habilidades que possam me ajudar a ingressar e crescer no mercado de trabalho.
+
+Recentemente, tenho desenvolvido um grande interesse por sistemas operacionais, especialmente Linux e suas distribuições, além de APIs, redes de computadores, navegadores de internet e BIOS. Gosto de entender como essas tecnologias funcionam e de aplicar esse conhecimento tanto no meu trabalho quanto em atividades do dia a dia.
+
+Também costumo desenvolver pequenos projetos para colocar em prática o que aprendo, testar novas ideias e expandir meus conhecimentos de forma contínua.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Exprericas e vivencias em:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,mysql,wordpress,figma,php,python,delphi&theme=light)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,javascript,php,html,css,react" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,mysql,vscode,visualstudio,wordpress,figma,delphi" />
+</p>
 
 ---
 
