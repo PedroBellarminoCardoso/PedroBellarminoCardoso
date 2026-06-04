@@ -15,17 +15,16 @@ Também desenvolvo projetos pessoais para praticar e consolidar meus conheciment
 ---
 
 # Estatísticas do GitHub
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&theme=github_dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    height="185em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&hide_border=true"
-  />
-</picture>
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&theme=github_dark&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&theme=github_dark" />
+</p>
+
+<p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrobellarminocardoso&theme=github-dark-blue" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrobellarminocardoso&theme=github-dark" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=pedrobellarminocardoso&theme=darkhub&no-frame=true&row=1&column=6" />
