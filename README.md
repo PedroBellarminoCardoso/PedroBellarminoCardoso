@@ -16,7 +16,17 @@ Também desenvolvo projetos pessoais para praticar e consolidar meus conheciment
 
 ## Estatísticas do GitHub
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrobellarminocardoso" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobellarminocardoso" />
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&theme=github_dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    height="185em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&hide_border=true"
+  />
+</picture>
