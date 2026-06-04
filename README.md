@@ -20,5 +20,3 @@ Também costumo desenvolver pequenos projetos para colocar em prática o que apr
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&theme=github_dark" />
 </p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrobellarminocardoso&theme=github-dark" />
