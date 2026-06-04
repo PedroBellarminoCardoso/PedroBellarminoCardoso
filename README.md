@@ -8,15 +8,15 @@ Também costumo desenvolver pequenos projetos para colocar em prática o que apr
 
 ---
 
-## Experiências e Vivências em
+## Conhecimentos e Tecnologias
 
 <img src="https://skillicons.dev/icons?i=linux,python,javascript,php,html,css,react,bootstrap,mysql,vscode,visualstudio,wordpress,figma,delphi" />
 
 ---
 
-## Status no GitHub
+## Estatísticas do GitHub
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&theme=github_dark"/>
 </p>
