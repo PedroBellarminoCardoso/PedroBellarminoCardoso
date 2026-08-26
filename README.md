@@ -47,7 +47,7 @@ Também desenvolvo projetos pessoais para praticar e consolidar meus conheciment
       <img
         height="185em"
         src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&hide_border=true"
-        alt="Top Languages"
+        alt="Linguagens mais usadas"
       />
     </picture>
   </a>
