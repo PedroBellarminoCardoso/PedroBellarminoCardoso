@@ -10,13 +10,15 @@ Também desenvolvo projetos pessoais para praticar e consolidar meus conheciment
 
 # Tecnologias e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=linux,python,javascript,php,html,css,react,bootstrap,mysql,vscode,visualstudio,wordpress,figma,delphi" />
+<img src="https://skillicons.dev/icons?i=linux,python,javascript,php,html,css,react,bootstrap,mysql,vscode,visualstudio,wordpress,figma,delphi,selenium" />
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=pedrobellarminocardoso&theme=github-dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Estatísticas do GitHub"
   />
 </p>
