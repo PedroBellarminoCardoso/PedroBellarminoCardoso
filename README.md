@@ -42,7 +42,7 @@ Também desenvolvo projetos pessoais para praticar e consolidar meus conheciment
       />
       <source
         srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&hide_border=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
       />
       <img
         height="185em"
