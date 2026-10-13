@@ -10,7 +10,7 @@ Também desenvolvo projetos pessoais para praticar e consolidar meus conheciment
 
 # Tecnologias e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=linux,python,javascript,php,html,css,react,bootstrap,mysql,vscode,visualstudio,figma,selenium" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,bootstrap,mysql,vscode,visualstudio,figma,selenium,playwright,requests,bs4" />
 
 ---
 
