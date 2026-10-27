@@ -23,17 +23,17 @@ Também desenvolvo projetos pessoais para praticar e consolidar meus conheciment
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&theme=default&hide_border=true"
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&include_all_commits=true&theme=default&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-      height="185em"
-      src="https://github-readme-stats-fast.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&hide_border=true"
-      alt="GitHub Status"
+      height="185"
+      src="https://github-readme-stats-fast.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&include_all_commits=true&hide_border=true"
+      alt="Estatísticas do GitHub"
     />
   </picture>
 
-  <!-- My Top Languages -->
+  <!-- Linguagens mais usadas -->
   <a href="https://github.com/pedrobellarminocardoso">
     <picture>
       <source
@@ -41,13 +41,9 @@ Também desenvolvo projetos pessoais para praticar e consolidar meus conheciment
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&hide_border=true"
-        media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&theme=default&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img
-        height="185em"
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&hide_border=true"
-        alt="Linguagens mais usadas"
-      />
-    </picture>
-  </a>
+        height="185"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pedrobellarmino
