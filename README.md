@@ -32,3 +32,12 @@ Também desenvolvo projetos pessoais para praticar e consolidar meus conheciment
       alt="Estatísticas do GitHub"
     />
   </picture>
+
+  ## Linguagens mais utilizadas
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBellarminoCardoso&layout=compact&langs_count=10&theme=github_dark&hide_border=true"
+    alt="Linguagens mais utilizadas no GitHub"
+  />
+</p>
