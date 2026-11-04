@@ -19,31 +19,33 @@ Também desenvolvo projetos pessoais para praticar e consolidar meus conheciment
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=PedroBellarminoCardoso&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true"
     />
     <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&include_all_commits=true&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=PedroBellarminoCardoso&show_icons=true&include_all_commits=true&theme=default&hide_border=true"
     />
     <img
       height="185"
-      src="https://github-readme-stats-fast.vercel.app/api?username=pedrobellarminocardoso&show_icons=true&include_all_commits=true&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=PedroBellarminoCardoso&show_icons=true&include_all_commits=true&theme=default&hide_border=true"
       alt="Estatísticas do GitHub"
     />
   </picture>
 
-  <!-- Linguagens mais usadas -->
-  <a href="https://github.com/pedrobellarminocardoso">
-    <picture>
-      <source
-        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&theme=github_dark&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pedrobellarminocardoso&layout=compact&theme=default&hide_border=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img
-        height="185"
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pedrobellarmino
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBellarminoCardoso&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBellarminoCardoso&layout=compact&langs_count=8&theme=default&hide_border=true"
+    />
+    <img
+      height="185"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBellarminoCardoso&layout=compact&langs_count=8&theme=default&hide_border=true"
+      alt="Linguagens mais utilizadas"
+    />
+  </picture>
+</p>
