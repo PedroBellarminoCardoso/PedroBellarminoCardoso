@@ -10,7 +10,7 @@ Também desenvolvo projetos pessoais para praticar e consolidar meus conheciment
 
 # Tecnologias e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,bootstrap,mysql,vscode,visualstudio,figma,selenium,playwright,requests,bs4" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,react,mysql,docker,n8n,vscode,visualstudio,playwright,requests,bs4" />
 
 ---
 ## Estatísticas do GitHub
