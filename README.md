@@ -2,7 +2,7 @@
 
 Curso Engenharia de Software desde 2025, com foco no meu desenvolvimento profissional e no aprendizado contínuo de tecnologias que me preparem para o mercado de trabalho.
 
-Tenho interesse especial no desenvolvimento de sistemas, automação de processos e inteligência artificial. Atualmente, busco ampliar meus conhecimentos nessas áreas, explorando novas tecnologias e ferramentas para desenvolver soluções eficientes e aplicá-las em projetos práticos e no dia a dia.
+Atualmente venho estudando o desenvolvimento de sistemas, automação de processos e inteligência artificial. Atualmente, busco ampliar meus conhecimentos nessas áreas, explorando novas tecnologias e ferramentas para desenvolver soluções eficientes e aplicá-las em projetos práticos e no dia a dia.
 
 Também desenvolvo projetos pessoais para praticar e consolidar meus conhecimentos, além de explorar novas ideias e tecnologias.
 
