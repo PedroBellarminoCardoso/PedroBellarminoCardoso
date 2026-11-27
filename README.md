@@ -1,8 +1,8 @@
 # Sobre mim
 
-Estou cursando Engenharia de Software desde 2025, com foco no meu desenvolvimento profissional e no aprendizado contínuo de tecnologias que me preparem para o mercado de trabalho.
+Curso Engenharia de Software desde 2025, com foco no meu desenvolvimento profissional e no aprendizado contínuo de tecnologias que me preparem para o mercado de trabalho.
 
-Tenho interesse especial em sistemas operacionais (principalmente Linux e suas distribuições), além de APIs, redes de computadores, navegadores e BIOS. Busco entender como essas tecnologias funcionam e aplicá-las tanto em projetos quanto no dia a dia.
+Tenho interesse especial no desenvolvimento de sistemas, automação de processos e inteligência artificial. Atualmente, busco ampliar meus conhecimentos nessas áreas, explorando novas tecnologias e ferramentas para desenvolver soluções eficientes e aplicá-las em projetos práticos e no dia a dia.
 
 Também desenvolvo projetos pessoais para praticar e consolidar meus conhecimentos, além de explorar novas ideias e tecnologias.
 
